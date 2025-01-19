@@ -9,29 +9,17 @@ Hi! I'm **Jazper Garcia**, a student at **Holy Angel University**, currently pur
 ![Profile Views](https://komarev.com/ghpvc/?username=explorewithjaz&color=blue&style=social)
 ---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
+<div align="center">
 
-<!-- GitHub Stats Section -->
-<div style="flex: 1; min-width: 300px; margin-right: 20px;">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=explorewithjaz&theme=onedark&no-bg=true&row=2&column=4" alt="Trophies">
-</div>
-
-<!-- GitHub Achievements Section -->
-<div style="flex: 1; min-width: 300px;">
-  <h2>🏆 GitHub Achievements</h2>
-  <ul>
-    <li>**Experience**: <img src="https://badges.pufler.dev/years/explorewithjaz" alt="Years Badge"></li>
-    <li>**Commits**: <img src="https://badges.pufler.dev/commits/monthly/explorewithjaz" alt="Commits Badge"></li>
-    <li>**Repositories**: <img src="https://badges.pufler.dev/repos/explorewithjaz" alt="Repositories Badge"></li>
-    <li>**Stars**: <img src="https://img.shields.io/github/stars/explorewithjaz?style=social" alt="Stars Badge"></li>
-    <li>**Followers**: <img src="https://img.shields.io/github/followers/explorewithjaz?style=social" alt="Followers Badge"></li>
-  </ul>
-</div>
+| **📊 GitHub Stats**                                                                                           | **🏆 GitHub Achievements**                                                                                                       |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=explorewithjaz&theme=onedark&no-bg=true&row=2&column=4) | - **Experience**: ![Years Badge](https://badges.pufler.dev/years/explorewithjaz) <br> - **Commits**: ![Commits Badge](https://badges.pufler.dev/commits/monthly/explorewithjaz) <br> - **Repositories**: ![Repositories Badge](https://badges.pufler.dev/repos/explorewithjaz) <br> - **Stars**: ![Stars Badge](https://img.shields.io/github/stars/explorewithjaz?style=social) <br> - **Followers**: ![Followers Badge](https://img.shields.io/github/followers/explorewithjaz?style=social) |
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Languages and Tools
 
@@ -42,6 +30,8 @@ Hi! I'm **Jazper Garcia**, a student at **Holy Angel University**, currently pur
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="AWS" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> |
+
+</div>
 
 ---
 
