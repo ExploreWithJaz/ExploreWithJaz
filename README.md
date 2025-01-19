@@ -35,7 +35,6 @@ Hi! I'm **Jazper Garcia**, a student at **Holy Angel University**, currently pur
 
 ---
 
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=explorewithjaz&show_icons=true&locale=en&layout=compact" alt="explorewithjaz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=explorewithjaz&show_icons=true&locale=en" alt="explorewithjaz" /></p>
