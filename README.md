@@ -4,7 +4,7 @@ Hi! I'm **Jazper Garcia**, a student at **Holy Angel University**, currently pur
 
 👨‍💻 **Explore my projects**: [explorewithjaz.github.io](https://explorewithjaz.github.io)
 
-📫 **How to reach me**: [jazpergarcia10@gmail.com](mailto:jazpergarcia10@gmail.com)
+📫 **How to reach me**: [jazpergarcia10@gmail.com](mailto:jazpergarcia11@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=explorewithjaz&color=blue&style=social)
 ---
